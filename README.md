@@ -1,5 +1,5 @@
-# lamedia_website
-lamedia_website 
+Selamat datang di project Lamedia Website!
 
-![Uploading 1.jpg…]()
+Website Preview
+![Hero Background](1.jpg)
 
